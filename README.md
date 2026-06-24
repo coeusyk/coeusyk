@@ -58,6 +58,4 @@
 
 ## 📊 Core Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coeusyk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Yash's GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coeusyk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
