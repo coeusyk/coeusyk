@@ -13,9 +13,6 @@
   <a href="mailto:yash.karecha@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/coeusyk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
